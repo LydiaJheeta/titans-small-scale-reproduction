@@ -1,0 +1,6 @@
+torch
+titans-pytorch
+transformers
+numpy
+matplotlib
+pandas
